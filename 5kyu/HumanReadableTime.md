@@ -34,3 +34,15 @@ fi
 seconds=$hour:$min:$sec
 echo $seconds
 ```
+
+使用 `printf` 格式化輸出
+
+```shell
+seconds=$1
+# Do something
+sec=$((seconds%60))
+min=$(((seconds/60)%60))
+hour=$((seconds/60/60))
+seconds=$(printf "%02d:%02d:%02d" $hour $min $sec)
+echo $seconds
+```
