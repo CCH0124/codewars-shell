@@ -2,3 +2,4 @@
 |---|---|---|---|
 |5 kyu|Human Readable Time|[Solution](5kyu/HumanReadableTime.md)|`if`|
 |5 kyu|Rot13|[Solution](5kyu/Rot13.md)|`tr`|
+|4 kyu|Human readable duration format|[Solution](4kyu/Human-readable-duration-format.md)|`array`|
