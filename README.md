@@ -5,3 +5,4 @@
 |4 kyu|Human readable duration format|[Solution](4kyu/Human-readable-duration-format.md)|`array`|
 |5 kyu|Weight for weight|[Solution](5kyu/Weight-for-weight.md)|`tr`、`sort`、`array`|
 |5 kyu|Regex Password Validation|[Solution](5kyu/Regex-Password-Validation.md)|`regex`|
+|6 kyu|Bouncing Balls|[Solution](6kyu/Bouncing-Balls.md)|`bc 比較 double 值`|
